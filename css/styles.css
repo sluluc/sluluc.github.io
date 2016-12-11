@@ -91,13 +91,13 @@ a {
 
 .project h2 {
   text-align: center;
+  display:inline-block;
 }
 
 .project img {
   max-width: 100%;
   text-align: center;
 }
-
 
 .project ul li{
   display:block;
