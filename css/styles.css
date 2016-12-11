@@ -81,7 +81,7 @@ a {
 
 .project {
   width: 30%;
-  display: inline-block;
+  display: block;
   background-color: #F2E9DC;
   margin: 1.66%;
   border-radius: 15px;
@@ -99,8 +99,9 @@ a {
 }
 
 
-
-
+.project ul li{
+  display:block;
+}
 
 
 
