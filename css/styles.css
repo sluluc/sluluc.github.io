@@ -14,7 +14,7 @@ p, li {
 
 
 .project {
-  background-color: grey;
+  background-color: #C4E8CA;
   width: 543px;
 }
 
@@ -41,7 +41,7 @@ header img {
 }
 
 .main-content {
-  background-color: #808F85;
+  background-color: #C4E8CA;
   padding: 10px 0;
   border-top: 2px solid #CFD11A;
 }
@@ -74,7 +74,7 @@ a {
 }
 
 #projects {
-  background-color: #808F85;
+  background-color: #DBE8CB;
 }
 
 .clearfix:after {
