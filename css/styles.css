@@ -18,10 +18,6 @@ p, li {
   width: 543px;
 }
 
-body {
-  background: url('../images/abstract-mosaic-background.png') no-repeat center center fixed;
-  background-size: cover;
-}
 
 .wrapper {
   width: 960px;
