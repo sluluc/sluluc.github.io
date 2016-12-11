@@ -86,6 +86,7 @@ a {
   margin: 1.66%;
   border-radius: 15px;
   float: left;
+  text-align: center;
 }
 
 .project h2 {
@@ -94,9 +95,8 @@ a {
 
 .project img {
   max-width: 100%;
-  align-items: center;
+  text-align: center;
 }
-
 
 
 
