@@ -84,7 +84,7 @@ a {
   display: block;
   margin: 1.66%;
   background-color: #D2E8D3;
-  border-radius: 15px;
+  border-radius: 20px;
   float: left;
   text-align: center;
 }
@@ -101,9 +101,18 @@ a {
 
 .project ul li{
   display:block;
+  text-align: left;
 }
 
+.project ul{
+  display:block;
+  text-align: left;
+}
 
+.project ol li{
+  display:block;
+  text-align: left;
+}
 
 
 
