@@ -14,7 +14,7 @@ p, li {
 
 
 .project {
-  background-color: #C4E8CA;
+  background-color: #E8E5D0;
   width: 543px;
 }
 
@@ -25,21 +25,21 @@ p, li {
 }
 
 header, footer {
-  background-color: #595959;
+  background-color: #F0FFE5;
   text-align: center;
   padding: 15px 30px;
 
 }
 
 header img {
-  width: 50%;
+  width: 40%;
   border-radius: 15px;
 }
 
 .main-content {
-  background-color: #C4E8CA;
+  background-color: #F0FFE5;
   padding: 10px 0;
-  border-top: 2px solid #CFD11A;
+  border-top: 2px solid #F0FFE5;
 }
 
 .main-content ul {
@@ -62,7 +62,7 @@ a {
 }
 
 .main-content p {
-  margin: 10px 40px;
+  margin: 30px 40px;
 }
 
 .main-content h2 {
@@ -70,7 +70,7 @@ a {
 }
 
 #projects {
-  background-color: #DBE8CB;
+  background-color: #F0FFE5;
 }
 
 .clearfix:after {
@@ -82,8 +82,8 @@ a {
 .project {
   width: 30%;
   display: block;
-  background-color: #F2E9DC;
   margin: 1.66%;
+  background-color: #D2E8D3;
   border-radius: 15px;
   float: left;
   text-align: center;
